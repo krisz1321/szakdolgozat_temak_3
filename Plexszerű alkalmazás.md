@@ -1,6 +1,6 @@
 # Plexszerű médiakezelő webalkalmazás
 
-A szakdolgozat témáját úgy választottam ki, hogy abból induljak ki, én magam mit használnék szívesen a hétköznapokban, és mi nővelné számomra kényelmet.  
+A szakdolgozat témáját úgy választottam ki, hogy abból induljak ki, én magam mit használnék szívesen a hétköznapokban, és mi növelné számomra kényelmet.  
 A mai világban szinte mindenki rengeteg médiatartalmat fogyaszt (videókat, filmeket, sorozatokat, zenéket vagy saját fényképeket).  
 Emellett sokan szeretnek maguk tárolni ezeket a tartalmakat. Nem kiszolgáltatni a személyestartalmaikat külső cégeknek, felhőszolgáltatóknak.  
 
@@ -46,7 +46,7 @@ Ez nemcsak **hasznos**, hanem szakdolgozati szinten is elég **komplex feladat**
 
 - **Lejátszás**  
   - Beépített webes lejátszó  
-  - Képnézegető (pl: családiképekhez)
+  - Képnézegető (pl: családi képekhez)
  
 - **Keresés és kategorizálás**  
   - Gyors keresés cím, műfaj vagy kulcsszó alapján  
