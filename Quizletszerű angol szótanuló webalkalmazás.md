@@ -46,7 +46,7 @@ Főbb jellemzők:
 ## Konkurencia és egyediség
 
 Léteznek már hasonló rendszerek, mint például:  
-- **Quizlet**, ahol előre készített listákból lehet tanulni. Ez hasznos, de kevésbé személyre szabott.  
+- **Quizlet**, ahol előre készített listákból lehet tanulni. Ez hasznos, de kevésbé személyre szabott. Illetve saját listát nagyon körülményes készíteni és ez sok hasznos időt vesz el a tanulásból.  
 - **Duolingo**, ami játékos formában tanít, viszont előre meghatározott leckékből dolgozik.  
 
 Az általam tervezett rendszer előnye, hogy **saját tartalomból tanít**, nem mások által készített listákból.  
